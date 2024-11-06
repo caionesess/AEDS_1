@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1730717695 source:c:\users\1543482\documents\aula 0411\aula 0411\myheader.c
+	<stdio.h>
+
+1730717892 source:c:\users\1543482\documents\aula 0411\aula 0411\main.c
+	<stdio.h>
+	"myHeader.h"
+
+1730717892 c:\users\1543482\documents\aula 0411\aula 0411\myheader.h
+
